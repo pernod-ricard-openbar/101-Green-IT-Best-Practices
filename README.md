@@ -1,6 +1,6 @@
 ![Logo](images/logo_github.png?raw=true "Logo")
 
-# 101-Green-IT-Best-Practices
+# 101 Green IT Best Practices
 An humble attempt to collect best practices for Green IT operational implementation. 
 
 # Web
