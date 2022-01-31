@@ -1,7 +1,8 @@
 ![Logo](images/logo_github.gif?raw=true "Logo")
 
 # 101 Green IT Best Practices
-An humble attempt to collect best practices for Green IT operational implementation. 
+
+An humble attempt to collect best practices for Green IT operational implementation.
 
 # Web
 
@@ -11,16 +12,18 @@ An humble attempt to collect best practices for Green IT operational implementat
 :green_circle: Make fewer http requests  
 :green_circle: Compress traffic with gzip  
 :green_circle: Minify CSS and Javascript  
-:green_circle: Remove unnecessary CSS and Javascript files  
+:green_circle: Remove unnecessary CSS and Javascript files
 
 # Data
 
-:construction_worker: Work in progress  
+:construction_worker: Work in progress
 
 # Mobile
 
-:construction_worker: Work in progress  
+:construction_worker: Work in progress
 
 # Contribution
 
 Contribution is welcome ! Don't hesitate to submit pull requests.
+
+-- for testing purpose
