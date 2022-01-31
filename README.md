@@ -25,5 +25,3 @@ An humble attempt to collect best practices for Green IT operational implementat
 # Contribution
 
 Contribution is welcome ! Don't hesitate to submit pull requests.
-
--- for testing purpose
